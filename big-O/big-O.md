@@ -2,11 +2,14 @@
 
 **Big O helps us to analyze the performance of an algorithm in terms of time and space complexity as the input of the algorithm increases.**
 
+Big O is a member of a family of notations invented by Paul Bachmann, Edmund Landau, and others, collectively called Bachmann–Landau notation or asymptotic notation. The letter O was chosen by Bachmann to stand for Ordnung, meaning the order of approximation.  
+[Big O Wiki](https://en.wikipedia.org/wiki/Big_O_notation)  
+
 Often algorithms are very long and will be very difficult to count the number of operations it's going to perform. So Big O will only be focusing on the bigger view and neglects(because when performing a million operations, additional 10 or 1000 operations doen't matter to computer) the minor operations. And there can be many ways of representing the performance of algorithm but most common ones are the ones used in the below graph representation.  
 
 **The time or space complexity measured by big O depends only on the algorithm but not on the hardware used to run that algorithm.** 
 
-![ Big O Graph ](/big-O.png)
+![ Big O Graph ](./big-O.png)
 
 ## Thumb rules for Time complexity
 
