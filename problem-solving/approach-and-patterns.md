@@ -9,8 +9,8 @@
 * Refactor your code.
 
 **Common problem solving patterms:**
-* [Frequency Counter](https://github.com/DSK9012/ds-and-algo/blob/master/problem-solving/patterns/frequency-counter/example.md)
-* Multiple Pointers
+* [Frequency Counter](https://github.com/DSK9012/ds-and-algo/blob/master/problem-solving/patterns/frequency-counter/frequency-counter.md)
+* [Multiple Pointers](https://github.com/DSK9012/ds-and-algo/blob/master/problem-solving/patterns/frequency-counter/frequency-counter.md)
 * Sliding Window
 * Divide and Conquer
 * Dynamic Programming
