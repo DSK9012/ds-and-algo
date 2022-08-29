@@ -5,4 +5,5 @@ This is the repo I've been practicing DS & Algo and writing my own understanding
 **Plese find the below concepts and have a look at them, It might help you.**  
 
 * [What is Big O and most used notations and their rules.](https://github.com/DSK9012/ds-and-algo/blob/master/big-O/big-O.md) 
-* [Problem solving approaches and common patterns] (https://github.com/DSK9012/ds-and-algo/blob/master/problem-solving/approach-and-patterns.md)
+* [Problem solving approaches and common patterns](https://github.com/DSK9012/ds-and-algo/blob/master/problem-solving/approach-and-patterns.md)
+* [Recursion](https://github.com/DSK9012/ds-and-algo/blob/master/recursion/recursion.md)
